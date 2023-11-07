@@ -10,11 +10,12 @@ public class PlaylistDTO {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public boolean isPublic_share() {
+	public boolean getPublic_share() {
 		return public_share;
 	}
 	public void setPublic_share(boolean public_share) {
 		this.public_share = public_share;
 	}
 	
+
 }

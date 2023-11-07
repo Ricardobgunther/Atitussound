@@ -1,5 +1,11 @@
 package br.edu.atitus.atitusound.servicesimpl;
 
+import java.util.List;
+import java.util.Optional;
+import java.util.UUID;
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import br.edu.atitus.atitusound.entities.ArtistEntity;

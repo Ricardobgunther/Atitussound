@@ -1,6 +1,7 @@
 package br.edu.atitus.atitusound.entities;
 
 import java.time.Duration;
+import java.util.UUID;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.FetchType;
